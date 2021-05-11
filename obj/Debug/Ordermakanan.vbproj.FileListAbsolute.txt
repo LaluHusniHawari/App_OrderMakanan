@@ -1,0 +1,12 @@
+C:\VBNET\Ordermakanan\bin\Debug\Ordermakanan.exe.config
+C:\VBNET\Ordermakanan\bin\Debug\Ordermakanan.exe
+C:\VBNET\Ordermakanan\bin\Debug\Ordermakanan.pdb
+C:\VBNET\Ordermakanan\bin\Debug\Ordermakanan.xml
+C:\VBNET\Ordermakanan\obj\Debug\Ordermakanan.vbprojAssemblyReference.cache
+C:\VBNET\Ordermakanan\obj\Debug\Ordermakanan.Form1.resources
+C:\VBNET\Ordermakanan\obj\Debug\Ordermakanan.Resources.resources
+C:\VBNET\Ordermakanan\obj\Debug\Ordermakanan.vbproj.GenerateResource.cache
+C:\VBNET\Ordermakanan\obj\Debug\Ordermakanan.vbproj.CoreCompileInputs.cache
+C:\VBNET\Ordermakanan\obj\Debug\Ordermakanan.exe
+C:\VBNET\Ordermakanan\obj\Debug\Ordermakanan.xml
+C:\VBNET\Ordermakanan\obj\Debug\Ordermakanan.pdb
